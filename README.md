@@ -824,7 +824,6 @@ A panel indicates that *You may close this message box now...*
 <img width="1917" height="1198" alt="Screenshot 2026-10-23 092034" src="https://github.com/user-attachments/assets/7f48932b-07a8-4429-b46d-de4fca805f37" />
 <img width="1917" height="1198" alt="Screenshot 2026-10-23 092634" src="https://github.com/user-attachments/assets/5262b4cf-4ba2-4775-a01a-5826c3698b73" />
 <img width="1917" height="1198" alt="Screenshot 2026-10-23 113538" src="https://github.com/user-attachments/assets/c2b765b9-3c31-4d32-957f-a073caec5a08" />
-<img width="1126" height="702" alt="Screenshot 2026-10-24 132840" src="https://github.com/user-attachments/assets/a696aad9-96a7-4625-b16c-db84a60f5ce5" />
 
 
 
